@@ -1,2 +1,2 @@
-# emrdb
-EMRDB database scripts for sqlserver and mysql databases
+# testdb
+Test database scripts for sqlserver and mysql databases
